@@ -1,0 +1,968 @@
+price,bedroom,bathroom,sq_ft,aircorn,pcode,tsp_en,tsp_mm,floor,overhead_tank,parquet,tiles,price_sqft
+200,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,5,,,,32000
+200,0,1,960,0,MMR013040,Hlaing,လှိုင်,5,False,False,True,20833.3333333333
+200,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,6,,,,32000
+200,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,6,False,False,True,32000
+200,1,1,660,1,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,4,False,False,False,30303.0303030303
+200,1,1,900,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,False,False,False,22222.2222222222
+205,0,1,750,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,,,,27333.3333333333
+205,0,1,750,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,,,,27333.3333333333
+210,0,1,600,0,MMR013014,Dawbon,ဒေါပုံ,5,False,False,True,35000
+210,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,False,True,33600
+215,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,5,True,False,False,34400
+215,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,5,True,False,False,34400
+220,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,5,False,False,False,35200
+220,0,1,564,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,True,39007.0921985816
+220,0,1,990,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,False,False,False,22222.2222222222
+220,0,0,625,0,MMR013014,Dawbon,ဒေါပုံ,2,,,,35200
+225,0,1,600,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,True,False,True,37500
+230,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,6,False,False,True,36800
+230,1,1,720,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,6,False,False,False,31944.4444444444
+230,0,1,517,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,5,,,,44487.4274661509
+230,0,0,700,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,False,32857.1428571429
+230,0,1,650,1,MMR013014,Dawbon,ဒေါပုံ,3,False,True,True,35384.6153846154
+230,0,1,650,1,MMR013014,Dawbon,ဒေါပုံ,3,False,True,True,35384.6153846154
+230,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,1,False,True,False,36800
+235,0,0,575,0,MMR013037,Ahlone,အလုံ,5,False,False,False,40869.5652173913
+235,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,4,True,False,False,37600
+235,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,4,True,False,False,37600
+239,2,1,687,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,4,False,True,False,34788.9374090247
+240,0,1,625,0,MMR013013,Thaketa,သာကေတ,4,False,False,False,38400
+240,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,5,,,,38400
+240,0,1,600,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,False,True,40000
+240,0,0,625,0,MMR013040,Hlaing,လှိုင်,,False,False,False,38400
+245,0,1,560,0,MMR013042,Mayangone,မရမ်းကုန်း,0,False,False,False,43750
+245,0,1,675,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,6,False,False,False,36296.2962962963
+250,0,1,688,1,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,4,True,False,False,36337.2093023256
+250,0,1,688,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,False,36337.2093023256
+250,0,1,605,0,MMR013040,Hlaing,လှိုင်,2,,,,41322.3140495868
+250,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,5,False,False,False,40000
+250,0,1,715,4,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,False,False,34965.034965035
+250,0,0,575,0,MMR013037,Ahlone,အလုံ,4,False,False,False,43478.2608695652
+250,0,1,918,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,5,True,False,True,27233.1154684096
+250,0,1,972,0,MMR013013,Thaketa,သာကေတ,5,True,False,False,25720.1646090535
+250,0,1,688,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,False,36337.2093023256
+250,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,6,,,,40000
+250,0,1,600,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,,,,41666.6666666667
+250,1,1,687,0,MMR013016,Pazundaung,ပုဇွန်တောင်,8,False,False,False,36390.1018922853
+250,0,1,625,0,MMR013042,Mayangone,မရမ်းကုန်း,,False,False,True,40000
+250,0,0,625,0,MMR013014,Dawbon,ဒေါပုံ,1,,,,40000
+250,0,0,600,0,MMR013014,Dawbon,ဒေါပုံ,0,,,,41666.6666666667
+250,0,1,688,0,MMR013040,Hlaing,လှိုင်,3,False,True,True,36337.2093023256
+255,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,3,True,False,False,40800
+255,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,3,True,False,False,40800
+255,0,1,756,0,MMR013019,Dagon Myothit (North),ဒဂုံမြို့သစ်မြောက်ပိုင်း,5,False,False,False,33730.1587301587
+255,0,1,625,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,6,False,False,False,40800
+260,0,1,810,0,MMR013013,Thaketa,သာကေတ,6,False,False,False,32098.7654320988
+260,0,1,810,0,MMR013013,Thaketa,သာကေတ,6,False,False,False,32098.7654320988
+260,0,1,625,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,5,False,False,True,41600
+260,0,1,625,0,MMR013040,Hlaing,လှိုင်,6,False,False,False,41600
+260,0,1,660,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,5,True,True,True,39393.9393939394
+260,0,1,625,0,MMR013015,Tamwe,တာမွေ,7,False,False,False,41600
+260,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,1,True,False,False,41600
+260,0,1,625,1,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,True,True,True,41600
+260,1,1,600,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,True,True,43333.3333333333
+260,1,1,625,1,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,False,True,False,41600
+260,1,1,900,0,MMR013015,Tamwe,တာမွေ,7,False,True,True,28888.8888888889
+260,1,1,625,1,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,False,True,True,41600
+260,3,1,900,0,MMR013015,Tamwe,တာမွေ,,False,False,False,28888.8888888889
+260,0,1,900,0,MMR013042,Mayangone,မရမ်းကုန်း,3,False,False,False,28888.8888888889
+260,1,1,900,0,MMR013040,Hlaing,လှိုင်,4,False,False,False,28888.8888888889
+260,0,1,688,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,False,37790.6976744186
+265,0,1,770,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,True,34415.5844155844
+265,0,0,625,0,MMR013037,Ahlone,အလုံ,3,False,False,False,42400
+270,0,1,552,0,MMR013040,Hlaing,လှိုင်,1,False,True,False,48913.0434782609
+270,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,2,,,,43200
+270,1,1,625,0,MMR013040,Hlaing,လှိုင်,5,False,False,False,43200
+270,1,1,550,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,False,False,49090.9090909091
+270,1,1,600,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,True,True,45000
+270,0,1,517,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,False,True,52224.3713733075
+270,0,1,688,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,,,,39244.1860465116
+270,0,1,625,0,MMR013042,Mayangone,မရမ်းကုန်း,4,,,,43200
+270,0,0,625,0,MMR013042,Mayangone,မရမ်းကုန်း,4,,,,43200
+270,1,1,810,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,33333.3333333333
+275,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,True,False,44000
+275,0,1,935,0,MMR013013,Thaketa,သာကေတ,6,False,False,False,29411.7647058824
+275,2,1,720,1,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,5,False,False,True,38194.4444444444
+275,0,0,625,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,4,False,False,False,44000
+275,0,1,600,0,MMR013039,Sanchaung,စမ်းချောင်း,6,,,,45833.3333333333
+275,0,0,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,,,,44000
+275,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,1,False,False,False,44000
+280,1,1,720,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,True,False,False,38888.8888888889
+280,2,2,600,1,MMR013042,Mayangone,မရမ်းကုန်း,5,True,False,False,46666.6666666667
+280,1,1,1044,1,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,4,False,True,False,26819.9233716475
+280,0,1,564,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,2,False,False,False,49645.390070922
+280,0,1,540,0,MMR013014,Dawbon,ဒေါပုံ,2,False,False,False,51851.8518518519
+280,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,False,False,44800
+280,3,2,780,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,0,False,True,False,35897.4358974359
+280,0,1,972,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,6,False,False,True,28806.5843621399
+280,1,1,670,1,MMR013040,Hlaing,လှိုင်,5,False,False,True,41791.0447761194
+280,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,False,False,44800
+280,0,1,715,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,False,True,39160.8391608392
+280,0,1,625,0,MMR013042,Mayangone,မရမ်းကုန်း,1,False,False,False,44800
+280,0,1,625,0,MMR013013,Thaketa,သာကေတ,3,False,False,False,44800
+280,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,3,,,,44800
+280,0,1,675,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,True,False,False,41481.4814814815
+280,1,1,600,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,True,True,46666.6666666667
+280,1,1,1100,1,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,,False,False,False,25454.5454545455
+280,0,0,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,,,,44800
+280,1,1,625,1,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,False,True,44800
+280,0,1,1045,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,False,False,False,26794.2583732057
+280,0,1,625,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,6,False,False,False,44800
+280,2,1,1160,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,True,False,24137.9310344828
+280,0,1,675,0,MMR013013,Thaketa,သာကေတ,1,False,False,False,41481.4814814815
+280,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,1,False,False,False,44800
+285,0,1,675,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,5,False,False,False,42222.2222222222
+285,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,True,True,45600
+285,0,1,663,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,5,False,False,False,42986.4253393665
+285,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,True,False,45600
+290,0,1,600,0,MMR013040,Hlaing,လှိုင်,5,False,False,True,48333.3333333333
+290,0,1,600,0,MMR013040,Hlaing,လှိုင်,5,False,False,True,48333.3333333333
+290,0,1,600,0,MMR013013,Thaketa,သာကေတ,6,False,False,True,48333.3333333333
+290,0,1,625,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,4,False,False,True,46400
+290,0,1,600,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,2,True,False,False,48333.3333333333
+290,0,0,550,0,MMR013014,Dawbon,ဒေါပုံ,1,False,True,False,52727.2727272727
+290,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,False,True,46400
+290,0,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,6,,,,46400
+290,2,2,800,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,3,False,False,True,36250
+290,0,1,625,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,5,False,False,False,46400
+290,0,1,625,0,MMR013040,Hlaing,လှိုင်,,False,True,False,46400
+297,1,1,700,1,MMR013040,Hlaing,လှိုင်,1,False,True,True,42428.5714285714
+297,1,1,700,1,MMR013040,Hlaing,လှိုင်,1,False,True,False,42428.5714285714
+298,1,1,990,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,5,False,False,False,30101.0101010101
+300,1,1,810,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,True,True,37037.037037037
+300,0,1,600,1,MMR013040,Hlaing,လှိုင်,1,,,,50000
+300,0,1,810,0,MMR013013,Thaketa,သာကေတ,5,False,False,False,37037.037037037
+300,0,1,810,0,MMR013013,Thaketa,သာကေတ,5,False,False,False,37037.037037037
+300,0,1,600,0,MMR013013,Thaketa,သာကေတ,6,False,False,True,50000
+300,0,1,688,0,MMR013013,Thaketa,သာကေတ,1,False,True,True,43604.6511627907
+300,1,1,658,1,MMR013042,Mayangone,မရမ်းကုန်း,1,False,True,False,45592.7051671733
+300,0,1,918,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,6,True,False,True,32679.7385620915
+300,0,1,900,0,MMR013037,Ahlone,အလုံ,4,False,False,False,33333.3333333333
+300,2,1,687,0,MMR013037,Ahlone,အလုံ,7,True,False,False,43668.1222707424
+300,0,1,550,0,MMR013042,Mayangone,မရမ်းကုန်း,0,,,,54545.4545454545
+300,0,1,550,0,MMR013042,Mayangone,မရမ်းကုန်း,0,False,False,False,54545.4545454545
+300,1,1,625,1,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,False,False,48000
+300,1,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,True,True,48000
+300,0,1,600,0,MMR013014,Dawbon,ဒေါပုံ,6,False,False,False,50000
+300,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,6,False,False,True,48000
+300,0,1,972,0,MMR013001,Insein,အင်းစိန်,6,True,False,False,30864.1975308642
+300,2,1,900,0,MMR013013,Thaketa,သာကေတ,4,False,False,False,33333.3333333333
+300,2,1,900,0,MMR013015,Tamwe,တာမွေ,8,False,True,False,33333.3333333333
+300,2,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,False,False,True,48000
+300,0,1,990,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,4,False,False,False,30303.0303030303
+300,0,1,990,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,5,False,False,False,30303.0303030303
+300,0,0,1007,0,MMR013039,Sanchaung,စမ်းချောင်း,6,,,,29791.4597815293
+300,0,1,625,0,MMR013013,Thaketa,သာကေတ,2,False,False,False,48000
+300,0,1,625,0,MMR013013,Thaketa,သာကေတ,2,False,False,False,48000
+300,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,2,,,,48000
+300,0,1,675,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,True,False,False,44444.4444444444
+300,1,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,5,False,False,False,48000
+300,1,1,633,0,MMR013040,Hlaing,လှိုင်,2,,,,47393.36492891
+300,0,1,972,0,MMR013019,Dagon Myothit (North),ဒဂုံမြို့သစ်မြောက်ပိုင်း,3,False,False,False,30864.1975308642
+300,0,1,625,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,4,False,False,False,48000
+300,1,0,633,0,MMR013040,Hlaing,လှိုင်,2,,,,47393.36492891
+300,2,1,688,0,MMR013039,Sanchaung,စမ်းချောင်း,6,True,False,False,43604.6511627907
+300,1,1,600,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,True,True,50000
+300,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,,,,30864.1975308642
+300,0,0,750,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,,,,40000
+300,0,0,600,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,,,,50000
+300,1,1,600,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,False,False,True,50000
+300,0,0,625,0,MMR013014,Dawbon,ဒေါပုံ,0,,,,48000
+300,2,1,625,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,6,False,True,False,48000
+300,0,1,864,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,5,False,False,False,34722.2222222222
+300,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,False,False,False,30864.1975308642
+300,0,1,840,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,,,,35714.2857142857
+300,0,0,625,0,MMR013014,Dawbon,ဒေါပုံ,0,,,,48000
+300,1,1,648,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,False,False,False,46296.2962962963
+300,0,1,715,0,MMR013015,Tamwe,တာမွေ,5,False,False,False,41958.041958042
+300,0,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,,False,False,False,48000
+300,1,1,702,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,3,False,False,True,42735.0427350427
+305,0,1,990,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,30808.0808080808
+310,0,1,600,0,MMR013013,Thaketa,သာကေတ,5,False,False,True,51666.6666666667
+310,1,1,600,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,6,False,False,True,51666.6666666667
+310,0,1,675,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,3,False,False,False,45925.9259259259
+310,0,1,621,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,True,False,False,49919.4847020934
+310,0,1,621,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,True,False,False,49919.4847020934
+310,1,1,625,0,MMR013015,Tamwe,တာမွေ,4,False,False,False,49600
+310,0,1,625,0,MMR013040,Hlaing,လှိုင်,6,False,True,False,49600
+310,1,1,688,0,MMR013014,Dawbon,ဒေါပုံ,1,False,True,False,45058.1395348837
+310,0,0,633,0,MMR013014,Dawbon,ဒေါပုံ,5,,,,48973.1437598736
+310,0,0,600,0,MMR013040,Hlaing,လှိုင်,,,,,51666.6666666667
+310,0,1,600,0,MMR013040,Hlaing,လှိုင်,6,True,True,True,51666.6666666667
+310,0,0,600,0,MMR013040,Hlaing,လှိုင်,6,False,True,True,51666.6666666667
+310,0,1,625,0,MMR013042,Mayangone,မရမ်းကုန်း,1,False,True,False,49600
+310,0,1,1000,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,31000
+310,1,1,700,0,MMR013015,Tamwe,တာမွေ,6,True,True,False,44285.7142857143
+310,0,1,625,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,5,False,False,False,49600
+310,1,1,900,0,MMR013015,Tamwe,တာမွေ,,False,False,False,34444.4444444444
+310,0,1,688,1,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,True,True,45058.1395348837
+315,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,True,50400
+320,1,1,720,0,MMR013042,Mayangone,မရမ်းကုန်း,5,True,False,True,44444.4444444444
+320,0,1,600,0,MMR013013,Thaketa,သာကေတ,5,False,False,True,53333.3333333333
+320,1,1,687,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,0,False,True,True,46579.3304221252
+320,0,0,686,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,,False,False,False,46647.2303206997
+320,0,1,900,0,MMR013015,Tamwe,တာမွေ,1,False,False,True,35555.5555555556
+320,2,1,900,0,MMR013015,Tamwe,တာမွေ,1,False,False,True,35555.5555555556
+320,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,2,False,False,False,51200
+320,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,False,False,False,32921.8106995885
+320,0,1,625,0,MMR013013,Thaketa,သာကေတ,,False,False,False,51200
+320,0,1,600,0,MMR013014,Dawbon,ဒေါပုံ,5,False,False,False,53333.3333333333
+320,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,3,False,False,True,51200
+320,0,1,972,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,5,False,False,False,32921.8106995885
+320,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,1,,,,51200
+320,0,1,600,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,0,,,,53333.3333333333
+320,0,1,625,0,MMR013040,Hlaing,လှိုင်,4,,,,51200
+320,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,32921.8106995885
+320,1,1,540,1,MMR013039,Sanchaung,စမ်းချောင်း,6,False,True,False,59259.2592592593
+320,2,1,900,0,MMR013015,Tamwe,တာမွေ,6,False,False,True,35555.5555555556
+320,0,1,575,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,2,False,False,False,55652.1739130435
+320,0,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,5,False,False,False,32921.8106995885
+320,0,1,625,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,4,False,False,False,51200
+320,1,1,557,0,MMR013040,Hlaing,လှိုင်,1,True,False,False,57450.6283662478
+320,0,1,648,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,True,True,49382.7160493827
+320,0,1,702,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,False,False,True,45584.0455840456
+320,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,False,False,51200
+320,0,1,625,0,MMR013013,Thaketa,သာကေတ,0,False,False,False,51200
+320,0,1,625,0,MMR013013,Thaketa,သာကေတ,0,False,False,False,51200
+320,0,1,972,0,MMR013013,Thaketa,သာကေတ,,False,False,False,32921.8106995885
+320,0,1,1080,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,,,,29629.6296296296
+320,2,1,990,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,8,False,False,False,32323.2323232323
+320,2,1,990,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,8,False,True,False,32323.2323232323
+320,0,0,687,0,MMR013015,Tamwe,တာမွေ,,,,,46579.3304221252
+320,0,1,600,0,MMR013039,Sanchaung,စမ်းချောင်း,3,False,False,False,53333.3333333333
+320,2,1,687,1,MMR013015,Tamwe,တာမွေ,3,False,False,True,46579.3304221252
+320,0,1,625,0,MMR013040,Hlaing,လှိုင်,5,False,False,False,51200
+320,0,1,688,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,3,False,False,False,46511.6279069767
+320,1,1,625,1,MMR013039,Sanchaung,စမ်းချောင်း,,False,True,False,51200
+320,0,1,750,0,MMR013039,Sanchaung,စမ်းချောင်း,,False,False,False,42666.6666666667
+320,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,3,False,False,False,51200
+320,2,1,750,0,MMR013015,Tamwe,တာမွေ,7,False,True,True,42666.6666666667
+325,0,1,675,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,4,False,False,False,48148.1481481482
+325,1,1,625,2,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,True,True,52000
+325,1,1,557,0,MMR013040,Hlaing,လှိုင်,1,True,False,False,58348.2944344704
+325,1,1,558,0,MMR013040,Hlaing,လှိုင်,1,True,False,False,58243.7275985663
+325,0,1,676,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,0,False,False,False,48076.9230769231
+330,0,1,600,0,MMR013013,Thaketa,သာကေတ,4,False,False,True,55000
+330,0,1,900,0,MMR013013,Thaketa,သာကေတ,5,False,False,False,36666.6666666667
+330,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,0,False,False,True,52800
+330,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,False,False,False,52800
+330,0,1,972,0,MMR013013,Thaketa,သာကေတ,6,False,False,False,33950.6172839506
+330,0,1,552,0,MMR013042,Mayangone,မရမ်းကုန်း,3,False,False,False,59782.6086956522
+330,2,2,900,0,MMR013037,Ahlone,အလုံ,7,False,True,False,36666.6666666667
+330,0,0,600,0,MMR013015,Tamwe,တာမွေ,,,,,55000
+330,0,1,750,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,False,44000
+330,0,0,972,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,,,,,33950.6172839506
+330,0,1,918,0,MMR013013,Thaketa,သာကေတ,6,False,False,False,35947.7124183007
+330,0,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,5,False,True,True,52800
+330,0,1,600,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,6,,,,55000
+330,1,1,630,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,False,True,True,52380.9523809524
+330,1,1,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,,,,32163.7426900585
+330,0,1,813,0,MMR013041,Kamaryut,ကမာရွတ်,5,,,,40590.405904059
+330,2,0,625,0,MMR013041,Kamaryut,ကမာရွတ်,5,,,,52800
+330,0,1,750,0,MMR013015,Tamwe,တာမွေ,6,False,False,False,44000
+330,1,1,750,0,MMR013015,Tamwe,တာမွေ,3,False,False,True,44000
+330,1,1,715,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,6,False,False,False,46153.8461538462
+330,0,1,900,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,False,False,False,36666.6666666667
+335,1,1,600,0,MMR013010,Yankin,ရန်ကင်း,2,True,False,True,55833.3333333333
+340,1,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,2,False,True,False,54400
+340,0,1,810,0,MMR013013,Thaketa,သာကေတ,4,False,False,False,41975.3086419753
+340,0,1,810,0,MMR013013,Thaketa,သာကေတ,4,False,False,False,41975.3086419753
+340,0,1,600,0,MMR013013,Thaketa,သာကေတ,4,False,False,True,56666.6666666667
+340,1,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,3,False,True,False,54400
+340,0,1,600,0,MMR013014,Dawbon,ဒေါပုံ,4,False,False,False,56666.6666666667
+340,0,1,625,0,MMR013040,Hlaing,လှိုင်,3,False,False,False,54400
+340,0,1,650,0,MMR013015,Tamwe,တာမွေ,6,False,True,False,52307.6923076923
+340,2,1,853,0,MMR013015,Tamwe,တာမွေ,6,False,True,False,39859.3200468933
+340,0,1,675,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,True,False,False,50370.3703703704
+340,0,1,976,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,False,34836.0655737705
+340,2,1,600,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,,,,56666.6666666667
+340,0,0,990,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,False,False,False,34343.4343434343
+345,0,1,563,0,MMR013040,Hlaing,လှိုင်,1,False,True,False,61278.8632326821
+345,0,1,625,0,MMR013040,Hlaing,လှိုင်,1,False,True,False,55200
+345,0,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,False,False,True,35493.8271604938
+350,0,0,625,0,MMR013039,Sanchaung,စမ်းချောင်း,5,True,False,True,56000
+350,0,1,972,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,1,False,False,False,36008.2304526749
+350,2,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,4,False,False,False,56000
+350,0,1,600,0,MMR013013,Thaketa,သာကေတ,3,True,False,True,58333.3333333333
+350,0,0,625,0,MMR013039,Sanchaung,စမ်းချောင်း,,False,True,True,56000
+350,0,0,540,0,MMR013014,Dawbon,ဒေါပုံ,0,True,False,False,64814.8148148148
+350,0,1,960,0,MMR013015,Tamwe,တာမွေ,7,False,False,False,36458.3333333333
+350,0,1,867,0,MMR013019,Dagon Myothit (North),ဒဂုံမြို့သစ်မြောက်ပိုင်း,4,False,False,False,40369.0888119954
+350,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,0,True,False,False,56000
+350,0,1,540,0,MMR013014,Dawbon,ဒေါပုံ,3,False,False,False,64814.8148148148
+350,2,1,775,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,4,False,True,False,45161.2903225806
+350,0,1,945,0,MMR013013,Thaketa,သာကေတ,4,False,False,False,37037.037037037
+350,1,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,False,True,False,36008.2304526749
+350,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,36008.2304526749
+350,0,1,588,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,False,59523.8095238095
+350,1,1,625,0,MMR013040,Hlaing,လှိုင်,,False,True,False,56000
+350,0,1,918,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,5,True,False,True,38126.3616557734
+350,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,2,False,False,True,56000
+350,0,1,612,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,2,True,False,True,57189.5424836601
+350,0,1,655,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,1,False,False,True,53435.1145038168
+350,0,1,600,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,2,False,False,False,58333.3333333333
+350,0,1,816,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,True,False,True,42892.1568627451
+350,0,1,969,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,False,False,True,36119.7110423117
+350,0,1,972,0,MMR013013,Thaketa,သာကေတ,6,False,False,False,36008.2304526749
+350,2,1,700,0,MMR013015,Tamwe,တာမွေ,4,True,False,False,50000
+350,2,1,870,1,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,,,,40229.8850574713
+350,2,1,972,0,MMR013013,Thaketa,သာကေတ,3,False,False,False,36008.2304526749
+350,0,1,825,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,False,42424.2424242424
+350,0,1,540,0,MMR013014,Dawbon,ဒေါပုံ,1,False,False,False,64814.8148148148
+350,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,False,False,False,36008.2304526749
+350,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,2,False,False,False,56000
+350,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,1,False,False,False,56000
+350,0,1,625,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,4,False,False,False,56000
+350,0,1,625,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,1,False,False,False,56000
+350,0,1,625,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,2,False,False,False,56000
+350,2,1,870,1,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,,,,40229.8850574713
+350,2,2,870,1,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,,,,40229.8850574713
+350,0,1,625,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,6,False,False,False,56000
+350,0,1,1200,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,29166.6666666667
+350,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,1,True,False,False,56000
+350,1,1,625,0,MMR013040,Hlaing,လှိုင်,3,,,,56000
+350,1,1,625,2,MMR013042,Mayangone,မရမ်းကုန်း,1,False,False,False,56000
+350,0,0,625,0,MMR013039,Sanchaung,စမ်းချောင်း,3,False,False,False,56000
+350,0,1,650,0,MMR013010,Yankin,ရန်ကင်း,0,False,False,False,53846.1538461538
+350,0,1,520,0,MMR013033,Kyauktada,ကျောက်တံတား,0,False,False,False,67307.6923076923
+350,0,1,756,0,MMR013013,Thaketa,သာကေတ,1,False,False,False,46296.2962962963
+350,2,1,870,1,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,True,True,40229.8850574713
+350,1,1,825,1,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,7,,,,42424.2424242424
+350,1,1,550,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,False,True,63636.3636363636
+350,0,1,750,0,MMR013041,Kamaryut,ကမာရွတ်,6,,,,46666.6666666667
+350,0,0,650,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,False,False,53846.1538461538
+350,0,0,800,0,MMR013015,Tamwe,တာမွေ,4,False,False,False,43750
+350,1,1,800,0,MMR013015,Tamwe,တာမွေ,4,,,,43750
+350,0,0,650,0,MMR013010,Yankin,ရန်ကင်း,0,False,False,False,53846.1538461538
+350,0,1,810,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,True,True,43209.8765432099
+350,0,0,625,0,MMR013014,Dawbon,ဒေါပုံ,1,,,,56000
+350,0,0,633,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,,,,55292.2590837283
+350,0,0,756,0,MMR013013,Thaketa,သာကေတ,1,False,False,False,46296.2962962963
+350,0,0,900,0,MMR013015,Tamwe,တာမွေ,2,False,False,False,38888.8888888889
+350,0,1,900,0,MMR013015,Tamwe,တာမွေ,7,False,False,False,38888.8888888889
+350,2,1,750,2,MMR013039,Sanchaung,စမ်းချောင်း,7,False,False,True,46666.6666666667
+350,1,1,750,1,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,7,False,True,True,46666.6666666667
+350,0,1,663,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,True,False,52790.346907994
+350,0,0,625,0,MMR013010,Yankin,ရန်ကင်း,0,True,False,False,56000
+350,2,1,810,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,43209.8765432099
+350,0,0,688,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,2,,,,50872.0930232558
+350,0,1,650,0,MMR013039,Sanchaung,စမ်းချောင်း,4,False,False,False,53846.1538461538
+350,2,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,True,35860.6557377049
+350,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,True,35860.6557377049
+350,0,2,900,0,MMR013013,Thaketa,သာကေတ,2,True,False,False,38888.8888888889
+350,0,1,1080,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,False,False,False,32407.4074074074
+350,0,1,750,0,MMR013015,Tamwe,တာမွေ,6,False,True,False,46666.6666666667
+350,1,1,750,0,MMR013015,Tamwe,တာမွေ,3,False,False,True,46666.6666666667
+350,0,1,750,0,MMR013015,Tamwe,တာမွေ,3,False,False,True,46666.6666666667
+350,0,1,972,0,MMR013013,Thaketa,သာကေတ,4,False,False,False,36008.2304526749
+350,0,1,688,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,,False,False,False,50872.0930232558
+350,0,1,750,0,MMR013015,Tamwe,တာမွေ,3,False,False,True,46666.6666666667
+350,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,35860.6557377049
+350,3,1,1100,0,MMR013015,Tamwe,တာမွေ,6,,,,31818.1818181818
+350,0,1,625,0,MMR013015,Tamwe,တာမွေ,3,False,False,False,56000
+350,2,1,1083,0,MMR013013,Thaketa,သာကေတ,4,False,True,False,32317.6361957525
+350,1,1,825,0,MMR013040,Hlaing,လှိုင်,,False,False,True,42424.2424242424
+350,0,1,625,0,MMR013040,Hlaing,လှိုင်,2,False,False,False,56000
+350,0,1,625,0,MMR013040,Hlaing,လှိုင်,3,False,False,False,56000
+350,0,1,625,0,MMR013040,Hlaing,လှိုင်,1,False,True,False,56000
+350,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,35860.6557377049
+350,0,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,,False,False,False,56000
+350,2,2,687,0,MMR013014,Dawbon,ဒေါပုံ,0,False,True,False,50946.1426491994
+350,1,1,688,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,False,True,50872.0930232558
+360,0,1,540,0,MMR013014,Dawbon,ဒေါပုံ,1,False,False,False,66666.6666666667
+360,2,1,1080,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,,,,33333.3333333333
+360,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,False,False,57600
+360,0,1,825,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,False,True,True,43636.3636363636
+360,0,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,False,37037.037037037
+360,1,1,990,1,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,,,,36363.6363636364
+360,0,1,972,0,MMR013013,Thaketa,သာကေတ,6,False,False,False,37037.037037037
+360,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,4,False,False,False,57600
+360,1,1,625,0,MMR013014,Dawbon,ဒေါပုံ,1,False,True,False,57600
+360,2,1,750,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,5,False,False,False,48000
+360,0,1,625,0,MMR013013,Thaketa,သာကေတ,0,False,False,False,57600
+360,0,1,625,0,MMR013013,Thaketa,သာကေတ,0,False,False,False,57600
+360,0,1,675,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,True,False,False,53333.3333333333
+360,1,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,True,True,57600
+360,2,1,625,0,MMR013015,Tamwe,တာမွေ,4,False,False,True,57600
+360,0,1,600,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,False,True,60000
+360,0,1,750,0,MMR013015,Tamwe,တာမွေ,2,,,,48000
+360,0,1,675,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,5,False,True,True,53333.3333333333
+360,0,1,1045,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,34449.7607655502
+360,2,1,960,0,MMR013015,Tamwe,တာမွေ,6,False,True,False,37500
+360,0,1,1020,0,MMR013015,Tamwe,တာမွေ,7,False,False,False,35294.1176470588
+360,2,2,1100,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,False,False,True,32727.2727272727
+360,0,1,658,0,MMR013014,Dawbon,ဒေါပုံ,2,False,False,True,54711.2462006079
+360,1,1,630,0,MMR013014,Dawbon,ဒေါပုံ,5,True,False,False,57142.8571428571
+364,0,1,810,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,False,False,44938.2716049383
+370,2,1,825,0,MMR013040,Hlaing,လှိုင်,4,,,,44848.4848484848
+370,0,1,660,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,4,False,True,False,56060.6060606061
+370,0,1,625,0,MMR013040,Hlaing,လှိုင်,3,False,False,True,59200
+370,2,1,990,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,False,False,True,37373.7373737374
+370,0,1,972,0,MMR013013,Thaketa,သာကေတ,3,,,,38065.8436213992
+370,0,1,972,0,MMR013013,Thaketa,သာကေတ,3,False,False,True,38065.8436213992
+370,1,1,650,0,MMR013015,Tamwe,တာမွေ,7,False,True,False,56923.0769230769
+370,1,1,688,0,MMR013040,Hlaing,လှိုင်,3,,,,53779.0697674419
+370,0,1,800,0,MMR013044,Bahan,ဗဟန်း,5,False,False,False,46250
+370,0,1,800,0,MMR013044,Bahan,ဗဟန်း,1,False,False,False,46250
+370,1,1,800,0,MMR013042,Mayangone,မရမ်းကုန်း,3,False,False,False,46250
+375,0,1,650,0,MMR013040,Hlaing,လှိုင်,1,False,True,True,57692.3076923077
+375,1,1,972,0,MMR013013,Thaketa,သာကေတ,5,,,,38580.2469135802
+375,0,1,650,0,MMR013040,Hlaing,လှိုင်,1,False,False,True,57692.3076923077
+375,0,1,625,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,6,False,False,False,60000
+375,0,1,650,0,MMR013040,Hlaing,လှိုင်,1,False,True,True,57692.3076923077
+375,0,1,750,1,MMR013039,Sanchaung,စမ်းချောင်း,1,False,False,True,50000
+377,1,1,715,0,MMR013015,Tamwe,တာမွေ,,False,True,False,52727.2727272727
+380,0,1,540,0,MMR013014,Dawbon,ဒေါပုံ,1,True,False,False,70370.3703703704
+380,0,0,686,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,,False,False,False,55393.5860058309
+380,1,1,675,1,MMR013037,Ahlone,အလုံ,5,False,False,False,56296.2962962963
+380,1,1,976,1,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,False,True,True,38934.4262295082
+380,0,1,672,0,MMR013015,Tamwe,တာမွေ,6,False,False,False,56547.619047619
+380,1,1,975,2,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,8,False,False,False,38974.358974359
+380,0,1,750,0,MMR013013,Thaketa,သာကေတ,6,True,False,True,50666.6666666667
+380,2,1,1026,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,6,False,False,True,37037.037037037
+380,1,1,616,1,MMR013010,Yankin,ရန်ကင်း,1,False,True,False,61688.3116883117
+380,1,1,825,0,MMR013015,Tamwe,တာမွေ,7,False,False,False,46060.6060606061
+380,0,1,625,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,1,False,False,False,60800
+380,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,39094.6502057613
+380,1,1,972,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,4,False,True,False,39094.6502057613
+380,2,1,972,2,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,True,True,39094.6502057613
+380,0,1,517,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,False,False,True,73500.9671179884
+380,2,2,600,1,MMR013039,Sanchaung,စမ်းချောင်း,5,False,True,True,63333.3333333333
+380,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,False,60800
+380,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,False,38934.4262295082
+380,0,0,625,0,MMR013040,Hlaing,လှိုင်,1,,,,60800
+380,2,1,1050,0,MMR013015,Tamwe,တာမွေ,7,False,True,True,36190.4761904762
+380,0,1,825,0,MMR013015,Tamwe,တာမွေ,4,True,True,True,46060.6060606061
+380,0,1,650,0,MMR013040,Hlaing,လှိုင်,1,,,,58461.5384615385
+380,0,1,650,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,3,True,False,False,58461.5384615385
+380,0,1,650,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,False,False,58461.5384615385
+380,0,0,750,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,,,,50666.6666666667
+380,0,0,750,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,,,,50666.6666666667
+380,0,0,750,0,MMR013015,Tamwe,တာမွေ,,,,,50666.6666666667
+380,0,0,750,0,MMR013039,Sanchaung,စမ်းချောင်း,,,,,50666.6666666667
+380,1,0,750,2,MMR013017,Botahtaung,ဗိုလ်တထောင်,8,,,,50666.6666666667
+380,0,1,688,0,MMR013016,Pazundaung,ပုဇွန်တောင်,,False,False,False,55232.5581395349
+385,0,1,825,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,False,False,True,46666.6666666667
+385,0,1,715,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,False,True,False,53846.1538461538
+390,1,1,625,1,MMR013040,Hlaing,လှိုင်,4,True,True,False,62400
+390,0,1,990,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,,,,39393.9393939394
+390,0,1,650,0,MMR013039,Sanchaung,စမ်းချောင်း,2,False,False,True,60000
+390,0,1,867,0,MMR013019,Dagon Myothit (North),ဒဂုံမြို့သစ်မြောက်ပိုင်း,3,False,False,False,44982.6989619377
+390,1,1,650,1,MMR013039,Sanchaung,စမ်းချောင်း,2,,,,60000
+390,0,1,625,1,MMR013040,Hlaing,လှိုင်,,False,False,True,62400
+390,0,1,972,0,MMR013013,Thaketa,သာကေတ,5,False,False,False,40123.4567901235
+390,2,1,625,0,MMR013015,Tamwe,တာမွေ,5,True,False,False,62400
+390,1,1,990,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,False,True,False,39393.9393939394
+390,0,1,625,0,MMR013040,Hlaing,လှိုင်,1,,,,62400
+390,2,1,625,1,MMR013039,Sanchaung,စမ်းချောင်း,4,False,True,True,62400
+390,0,1,600,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,0,False,False,False,65000
+390,0,1,825,0,MMR013013,Thaketa,သာကေတ,3,False,False,False,47272.7272727273
+390,1,1,990,1,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,False,True,True,39393.9393939394
+390,0,1,750,0,MMR013041,Kamaryut,ကမာရွတ်,5,,,,52000
+390,0,0,1045,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,False,False,False,37320.5741626794
+390,0,0,1215,0,MMR013037,Ahlone,အလုံ,,,,,32098.7654320988
+390,0,0,633,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,,,,61611.3744075829
+390,0,1,650,0,MMR013013,Thaketa,သာကေတ,2,False,False,False,60000
+390,2,1,825,0,MMR013013,Thaketa,သာကေတ,3,True,False,False,47272.7272727273
+390,0,1,970,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,40206.1855670103
+390,0,1,625,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,1,False,True,True,62400
+390,0,1,1250,0,MMR013040,Hlaing,လှိုင်,3,False,False,False,31200
+390,0,1,1250,0,MMR013040,Hlaing,လှိုင်,3,False,False,False,31200
+390,0,1,625,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,0,,,,62400
+390,1,1,630,0,MMR013014,Dawbon,ဒေါပုံ,4,True,False,False,61904.7619047619
+390,0,1,1018,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,1,False,False,False,38310.4125736739
+395,1,2,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,True,True,40637.8600823045
+395,0,1,1053,0,MMR013019,Dagon Myothit (North),ဒဂုံမြို့သစ်မြောက်ပိုင်း,1,False,False,False,37511.8708452042
+395,0,1,972,0,MMR013013,Thaketa,သာကေတ,3,False,False,False,40637.8600823045
+400,1,1,1053,0,MMR013019,Dagon Myothit (North),ဒဂုံမြို့သစ်မြောက်ပိုင်း,3,False,True,False,37986.7046533713
+400,0,1,900,0,MMR013001,Insein,အင်းစိန်,4,False,False,True,44444.4444444444
+400,0,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,4,True,False,False,41152.2633744856
+400,2,1,625,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,0,False,True,False,64000
+400,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,2,False,False,False,64000
+400,2,1,1026,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,6,False,True,True,38986.3547758285
+400,0,1,990,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,4,False,False,False,40404.0404040404
+400,0,1,918,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,4,True,False,True,43572.9847494553
+400,2,1,625,1,MMR013040,Hlaing,လှိုင်,2,False,True,False,64000
+400,0,1,540,0,MMR013014,Dawbon,ဒေါပုံ,1,False,False,False,74074.0740740741
+400,2,2,750,0,MMR013042,Mayangone,မရမ်းကုန်း,0,False,True,False,53333.3333333333
+400,1,1,728,1,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,False,True,54945.0549450549
+400,0,1,990,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,True,False,False,40404.0404040404
+400,0,1,688,0,MMR013015,Tamwe,တာမွေ,6,False,False,False,58139.5348837209
+400,1,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,5,False,True,True,64000
+400,0,1,600,0,MMR013014,Dawbon,ဒေါပုံ,2,False,False,False,66666.6666666667
+400,0,1,621,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,True,False,False,64412.2383252818
+400,0,1,552,0,MMR013015,Tamwe,တာမွေ,6,True,False,False,72463.768115942
+400,2,1,684,0,MMR013042,Mayangone,မရမ်းကုန်း,4,False,True,True,58479.5321637427
+400,0,1,655,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,2,False,False,True,61068.7022900763
+400,0,1,648,1,MMR013040,Hlaing,လှိုင်,1,True,True,True,61728.3950617284
+400,0,1,969,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,5,False,False,True,41279.6697626419
+400,1,1,608,1,MMR013039,Sanchaung,စမ်းချောင်း,4,False,True,False,65789.4736842105
+400,1,1,715,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,5,False,True,False,55944.0559440559
+400,1,1,770,0,MMR013015,Tamwe,တာမွေ,5,False,False,False,51948.051948052
+400,0,1,945,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,False,False,42328.0423280423
+400,0,1,990,0,MMR013013,Thaketa,သာကေတ,3,,,,40404.0404040404
+400,0,1,625,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,2,False,False,False,64000
+400,1,1,625,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,2,False,True,False,64000
+400,0,1,575,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,0,False,False,False,69565.2173913044
+400,0,1,750,0,MMR013015,Tamwe,တာမွေ,4,False,False,True,53333.3333333333
+400,2,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,,,,41152.2633744856
+400,1,1,936,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,True,False,True,42735.0427350427
+400,0,1,810,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,True,False,False,49382.7160493827
+400,0,0,600,0,MMR013044,Bahan,ဗဟန်း,2,,,,66666.6666666667
+400,1,1,1044,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,True,True,38314.1762452107
+400,0,1,990,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,False,40404.0404040404
+400,2,1,600,1,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,2,,,,66666.6666666667
+400,0,1,600,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,2,,,,66666.6666666667
+400,0,2,770,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,,,,51948.051948052
+400,0,1,1080,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,False,False,False,37037.037037037
+400,0,1,625,1,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,3,False,False,False,64000
+400,1,1,600,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,False,True,66666.6666666667
+400,0,1,715,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,True,True,55944.0559440559
+400,0,1,825,0,MMR013015,Tamwe,တာမွေ,4,False,False,False,48484.8484848485
+400,0,1,625,1,MMR013013,Thaketa,သာကေတ,0,False,False,False,64000
+400,1,1,625,0,MMR013041,Kamaryut,ကမာရွတ်,3,False,True,False,64000
+400,0,1,700,0,MMR013040,Hlaing,လှိုင်,2,False,False,False,57142.8571428571
+400,0,1,1080,0,MMR013013,Thaketa,သာကေတ,1,,,,37037.037037037
+400,1,1,625,2,MMR013041,Kamaryut,ကမာရွတ်,3,False,True,True,64000
+400,0,0,625,0,MMR013014,Dawbon,ဒေါပုံ,0,,,,64000
+400,0,0,1081,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,,,,37002.7752081406
+400,2,1,800,0,MMR013044,Bahan,ဗဟန်း,4,,,,50000
+400,1,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,True,False,41152.2633744856
+400,0,1,750,0,MMR013042,Mayangone,မရမ်းကုန်း,0,,,,53333.3333333333
+400,0,1,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,38986.3547758285
+400,0,1,900,0,MMR013015,Tamwe,တာမွေ,1,False,True,False,44444.4444444444
+400,0,1,625,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,3,False,False,False,64000
+400,2,1,625,1,MMR013039,Sanchaung,စမ်းချောင်း,4,False,False,False,64000
+400,0,1,800,0,MMR013044,Bahan,ဗဟန်း,4,False,False,False,50000
+400,0,1,700,0,MMR013040,Hlaing,လှိုင်,2,False,False,False,57142.8571428571
+400,0,1,945,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,False,42328.0423280423
+400,0,1,750,0,MMR013015,Tamwe,တာမွေ,0,False,False,False,53333.3333333333
+400,0,1,850,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,False,False,False,47058.8235294118
+400,0,1,625,0,MMR013041,Kamaryut,ကမာရွတ်,4,False,False,False,64000
+400,0,1,680,1,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,False,True,58823.5294117647
+400,0,1,660,0,MMR013014,Dawbon,ဒေါပုံ,3,False,False,False,60606.0606060606
+400,0,1,555,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,,,,72072.0720720721
+400,2,1,1045,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,3,False,False,False,38277.5119617225
+405,2,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,,False,False,False,41666.6666666667
+410,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,False,False,False,65600
+410,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,False,False,False,65600
+410,0,1,850,0,MMR013014,Dawbon,ဒေါပုံ,6,False,False,False,48235.2941176471
+415,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,1,False,False,False,66400
+415,0,1,688,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,False,True,False,60319.7674418605
+420,0,1,625,1,MMR013039,Sanchaung,စမ်းချောင်း,5,True,True,False,67200
+420,1,0,750,0,MMR013015,Tamwe,တာမွေ,4,False,False,False,56000
+420,0,1,810,0,MMR013013,Thaketa,သာကေတ,2,False,False,False,51851.8518518519
+420,0,1,810,0,MMR013013,Thaketa,သာကေတ,2,False,False,False,51851.8518518519
+420,1,1,936,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,True,True,False,44871.7948717949
+420,1,1,936,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,True,True,False,44871.7948717949
+420,0,1,576,0,MMR013014,Dawbon,ဒေါပုံ,3,False,False,True,72916.6666666667
+420,0,1,540,0,MMR013014,Dawbon,ဒေါပုံ,1,False,False,False,77777.7777777778
+420,0,1,540,0,MMR013014,Dawbon,ဒေါပုံ,1,,,,77777.7777777778
+420,1,1,625,1,MMR013039,Sanchaung,စမ်းချောင်း,7,False,True,False,67200
+420,1,1,750,0,MMR013042,Mayangone,မရမ်းကုန်း,1,False,True,True,56000
+420,2,1,990,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,True,True,42424.2424242424
+420,2,1,1026,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,6,False,True,True,40935.6725146199
+420,2,1,750,1,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,7,False,True,True,56000
+420,0,1,990,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,False,False,False,42424.2424242424
+420,1,1,800,0,MMR013042,Mayangone,မရမ်းကုန်း,1,,,,52500
+420,2,1,1375,0,MMR013015,Tamwe,တာမွေ,7,False,False,True,30545.4545454545
+420,0,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,4,False,True,False,67200
+420,1,1,625,0,MMR013040,Hlaing,လှိုင်,1,,,,67200
+420,0,1,672,0,MMR013015,Tamwe,တာမွေ,5,False,False,False,62500
+420,0,1,612,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,1,True,False,True,68627.4509803922
+420,0,1,972,0,MMR013013,Thaketa,သာကေတ,4,False,False,False,43209.8765432099
+420,0,1,972,0,MMR013013,Thaketa,သာကေတ,4,False,False,False,43209.8765432099
+420,0,1,625,0,MMR013040,Hlaing,လှိုင်,1,,,,67200
+420,0,1,918,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,2,True,False,True,45751.6339869281
+420,0,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,3,False,True,False,67200
+420,1,1,700,1,MMR013039,Sanchaung,စမ်းချောင်း,3,False,True,False,60000
+420,0,1,625,0,MMR013042,Mayangone,မရမ်းကုန်း,0,False,False,False,67200
+420,1,1,648,1,MMR013040,Hlaing,လှိုင်,1,False,True,True,64814.8148148148
+420,0,0,972,0,MMR013013,Thaketa,သာကေတ,2,,,,43209.8765432099
+420,1,1,687,1,MMR013040,Hlaing,လှိုင်,1,False,True,True,61135.3711790393
+420,1,1,625,1,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,3,False,False,False,67200
+420,0,1,750,0,MMR013013,Thaketa,သာကေတ,5,False,False,False,56000
+420,2,1,825,2,MMR013015,Tamwe,တာမွေ,2,False,False,True,50909.0909090909
+420,1,1,990,1,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,False,False,True,42424.2424242424
+420,0,1,972,0,MMR013013,Thaketa,သာကေတ,1,True,False,False,43209.8765432099
+420,0,1,927,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,5,True,False,False,45307.4433656958
+420,0,1,900,0,MMR013015,Tamwe,တာမွေ,8,False,False,False,46666.6666666667
+420,2,1,990,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,,,,42424.2424242424
+420,0,1,600,0,MMR013041,Kamaryut,ကမာရွတ်,4,False,False,True,70000
+420,1,1,756,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,True,True,55555.5555555556
+420,0,1,600,0,MMR013015,Tamwe,တာမွေ,1,False,False,False,70000
+420,0,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,1,False,False,False,67200
+420,0,1,650,0,MMR013015,Tamwe,တာမွေ,1,False,False,False,64615.3846153846
+420,2,1,875,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,True,True,48000
+420,1,1,990,1,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,,,,42424.2424242424
+420,0,0,845,0,MMR013015,Tamwe,တာမွေ,4,False,False,False,49704.1420118343
+420,2,1,1200,0,MMR013010,Yankin,ရန်ကင်း,6,,,,35000
+420,2,1,845,0,MMR013015,Tamwe,တာမွေ,4,True,False,False,49704.1420118343
+420,0,1,650,0,MMR013039,Sanchaung,စမ်းချောင်း,3,False,False,False,64615.3846153846
+420,0,1,900,0,MMR013015,Tamwe,တာမွေ,1,False,True,False,46666.6666666667
+420,0,1,1250,0,MMR013040,Hlaing,လှိုင်,2,False,False,False,33600
+420,0,1,1250,0,MMR013040,Hlaing,လှိုင်,2,False,False,False,33600
+420,0,1,918,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,False,False,False,45751.6339869281
+420,0,1,900,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,0,False,False,False,46666.6666666667
+425,0,1,900,0,MMR013001,Insein,အင်းစိန်,3,False,False,False,47222.2222222222
+425,0,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,1,False,True,True,68000
+425,0,1,715,0,MMR013042,Mayangone,မရမ်းကုန်း,0,False,True,False,59440.5594405594
+425,0,1,990,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,False,False,False,42929.2929292929
+425,1,1,990,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,True,False,False,42929.2929292929
+430,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,True,44057.3770491803
+430,0,1,625,0,MMR013041,Kamaryut,ကမာရွတ်,2,False,True,False,68800
+430,2,1,800,0,MMR013044,Bahan,ဗဟန်း,3,True,False,False,53750
+430,2,1,864,3,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,,,,49768.5185185185
+430,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,44057.3770491803
+430,2,1,1080,2,MMR013016,Pazundaung,ပုဇွန်တောင်,8,False,True,False,39814.8148148148
+430,0,1,621,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,True,False,False,69243.1561996779
+430,0,1,552,0,MMR013015,Tamwe,တာမွေ,3,True,False,True,77898.5507246377
+430,2,1,1080,2,MMR013016,Pazundaung,ပုဇွန်တောင်,8,False,True,True,39814.8148148148
+430,1,1,625,2,MMR013035,Lanmadaw,လမ်းမတော်,7,False,True,False,68800
+430,2,1,972,0,MMR013040,Hlaing,လှိုင်,1,False,False,True,44238.683127572
+430,1,1,1200,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,True,True,35833.3333333333
+430,1,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,,False,False,True,44238.683127572
+430,0,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,1,False,False,False,68800
+430,1,1,990,0,MMR013013,Thaketa,သာကေတ,1,,,,43434.3434343434
+430,0,0,633,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,,,,67930.4897314376
+430,0,1,900,0,MMR013042,Mayangone,မရမ်းကုန်း,4,False,False,True,47777.7777777778
+430,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,1,False,True,False,68800
+430,0,1,625,0,MMR013013,Thaketa,သာကေတ,2,True,False,False,68800
+430,0,1,896,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,False,False,False,47991.0714285714
+430,0,1,600,0,MMR013039,Sanchaung,စမ်းချောင်း,1,False,False,False,71666.6666666667
+430,0,1,700,0,MMR013016,Pazundaung,ပုဇွန်တောင်,6,False,False,False,61428.5714285714
+430,0,1,770,0,MMR013039,Sanchaung,စမ်းချောင်း,3,False,False,False,55844.1558441558
+430,0,1,990,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,,,,,43434.3434343434
+430,0,1,900,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,3,False,False,False,47777.7777777778
+432,0,1,506,0,MMR013039,Sanchaung,စမ်းချောင်း,0,False,False,False,85375.4940711462
+435,1,1,728,2,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,True,True,True,59752.7472527472
+440,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,True,False,True,45267.4897119342
+440,1,1,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,False,False,False,42884.9902534113
+440,0,1,972,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,2,False,False,False,45267.4897119342
+440,0,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,5,False,True,False,45267.4897119342
+440,0,2,900,0,MMR013044,Bahan,ဗဟန်း,6,,,,48888.8888888889
+450,0,1,600,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,True,False,True,75000
+450,0,1,715,0,MMR013037,Ahlone,အလုံ,5,False,False,False,62937.0629370629
+450,0,0,625,0,MMR013039,Sanchaung,စမ်းချောင်း,,,,,72000
+450,2,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,,,,46296.2962962963
+450,0,1,600,0,MMR013039,Sanchaung,စမ်းချောင်း,1,False,True,True,75000
+450,2,1,1026,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,5,False,True,True,43859.649122807
+450,0,1,918,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,2,False,False,True,49019.6078431373
+450,0,1,918,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,3,True,False,True,49019.6078431373
+450,2,1,788,0,MMR013042,Mayangone,မရမ်းကုန်း,0,,,,57106.5989847716
+450,2,2,750,1,MMR013042,Mayangone,မရမ်းကုန်း,0,False,False,True,60000
+450,1,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,False,False,True,46296.2962962963
+450,2,1,625,2,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,4,False,True,False,72000
+450,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,False,False,True,72000
+450,1,1,625,1,MMR013039,Sanchaung,စမ်းချောင်း,5,False,False,True,72000
+450,2,1,750,1,MMR013015,Tamwe,တာမွေ,5,False,False,False,60000
+450,0,1,625,0,MMR013040,Hlaing,လှိုင်,1,False,False,False,72000
+450,0,1,625,0,MMR013042,Mayangone,မရမ်းကုန်း,1,False,False,False,72000
+450,0,1,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,True,False,False,43859.649122807
+450,0,1,972,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,6,False,False,False,46296.2962962963
+450,0,1,1350,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,True,False,True,33333.3333333333
+450,0,1,969,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,4,False,False,True,46439.6284829721
+450,1,1,972,0,MMR013001,Insein,အင်းစိန်,3,True,False,False,46296.2962962963
+450,0,1,972,0,MMR013001,Insein,အင်းစိန်,3,True,False,False,46296.2962962963
+450,0,1,575,0,MMR013014,Dawbon,ဒေါပုံ,0,False,False,False,78260.8695652174
+450,1,1,649,0,MMR013040,Hlaing,လှိုင်,,False,True,False,69337.4422187982
+450,1,1,625,0,MMR013014,Dawbon,ဒေါပုံ,0,False,False,False,72000
+450,0,1,960,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,5,,,,46875
+450,1,1,900,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,4,False,False,False,50000
+450,1,1,770,1,MMR013040,Hlaing,လှိုင်,4,,,,58441.5584415584
+450,2,1,880,0,MMR013015,Tamwe,တာမွေ,5,,,,51136.3636363636
+450,2,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,False,True,False,46296.2962962963
+450,0,1,625,0,MMR013042,Mayangone,မရမ်းကုန်း,0,False,False,True,72000
+450,1,1,675,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,False,True,True,66666.6666666667
+450,0,1,825,1,MMR013015,Tamwe,တာမွေ,1,False,False,True,54545.4545454545
+450,1,1,770,1,MMR013040,Hlaing,လှိုင်,4,,,,58441.5584415584
+450,0,1,825,0,MMR013015,Tamwe,တာမွေ,1,False,False,False,54545.4545454545
+450,2,1,1026,2,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,False,True,False,43859.649122807
+450,0,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,False,False,False,46296.2962962963
+450,0,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,6,False,False,False,46296.2962962963
+450,2,1,1080,0,MMR013015,Tamwe,တာမွေ,7,False,True,False,41666.6666666667
+450,2,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,True,46296.2962962963
+450,2,1,1250,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,7,False,True,True,36000
+450,0,1,600,0,MMR013041,Kamaryut,ကမာရွတ်,1,False,False,True,75000
+450,2,2,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,True,46106.5573770492
+450,1,1,750,1,MMR013015,Tamwe,တာမွေ,1,False,True,True,60000
+450,1,1,750,1,MMR013015,Tamwe,တာမွေ,1,False,True,True,60000
+450,1,1,765,1,MMR013041,Kamaryut,ကမာရွတ်,5,False,True,False,58823.5294117647
+450,0,1,600,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,5,,,,75000
+450,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,True,46106.5573770492
+450,0,1,700,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,False,False,64285.7142857143
+450,1,0,770,0,MMR013040,Hlaing,လှိုင်,5,,,,58441.5584415584
+450,0,1,600,0,MMR013041,Kamaryut,ကမာရွတ်,1,False,False,False,75000
+450,0,1,640,0,MMR013042,Mayangone,မရမ်းကုန်း,0,False,False,False,70312.5
+450,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,False,False,True,46106.5573770492
+450,0,1,972,0,MMR013019,Dagon Myothit (North),ဒဂုံမြို့သစ်မြောက်ပိုင်း,3,False,False,False,46296.2962962963
+450,0,1,900,0,MMR013015,Tamwe,တာမွေ,5,False,False,False,50000
+450,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,46106.5573770492
+450,1,1,650,1,MMR013035,Lanmadaw,လမ်းမတော်,7,False,True,False,69230.7692307692
+450,0,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,False,False,72000
+450,2,1,750,0,MMR013041,Kamaryut,ကမာရွတ်,2,,,,60000
+450,0,1,700,0,MMR013040,Hlaing,လှိုင်,1,False,False,False,64285.7142857143
+450,0,0,990,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,False,False,False,45454.5454545455
+450,2,1,990,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,False,True,45454.5454545455
+450,1,1,600,2,MMR013037,Ahlone,အလုံ,5,False,False,True,75000
+450,0,0,600,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,,,,75000
+450,0,0,625,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,,,,,72000
+450,0,0,800,0,MMR013044,Bahan,ဗဟန်း,5,False,False,False,56250
+450,2,1,875,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,,,,51428.5714285714
+450,0,1,650,0,MMR013037,Ahlone,အလုံ,4,False,False,False,69230.7692307692
+450,0,1,1080,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,False,False,False,41666.6666666667
+450,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,False,True,46106.5573770492
+450,1,1,750,0,MMR013039,Sanchaung,စမ်းချောင်း,3,False,False,False,60000
+450,0,1,1045,0,MMR013013,Thaketa,သာကေတ,1,False,False,True,43062.2009569378
+450,0,0,972,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,1,,,,46296.2962962963
+450,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,False,False,46296.2962962963
+450,0,1,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,43859.649122807
+450,0,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,4,True,False,False,46296.2962962963
+450,0,1,990,0,MMR013010,Yankin,ရန်ကင်း,6,True,False,False,45454.5454545455
+450,0,0,1100,0,MMR013001,Insein,အင်းစိန်,1,,,,40909.0909090909
+450,2,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,False,True,False,46296.2962962963
+450,0,1,1200,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,False,37500
+450,0,1,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,False,False,False,43859.649122807
+450,0,1,1050,0,MMR013042,Mayangone,မရမ်းကုန်း,1,True,False,False,42857.1428571429
+450,0,0,972,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,1,,,,46296.2962962963
+450,1,1,750,0,MMR013015,Tamwe,တာမွေ,1,,,,60000
+450,0,0,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,,,,46296.2962962963
+450,2,1,812,3,MMR013001,Insein,အင်းစိန်,3,False,False,True,55418.7192118227
+450,2,1,715,1,MMR013015,Tamwe,တာမွေ,4,False,True,False,62937.0629370629
+450,2,1,1050,0,MMR013015,Tamwe,တာမွေ,7,False,False,False,42857.1428571429
+450,0,1,800,0,MMR013044,Bahan,ဗဟန်း,4,False,False,False,56250
+450,0,0,625,0,MMR013041,Kamaryut,ကမာရွတ်,1,,,,72000
+450,0,1,715,1,MMR013015,Tamwe,တာမွေ,2,False,True,False,62937.0629370629
+450,0,1,750,0,MMR013015,Tamwe,တာမွေ,5,False,False,True,60000
+450,0,1,770,0,MMR013015,Tamwe,တာမွေ,3,False,True,False,58441.5584415584
+450,0,1,770,0,MMR013015,Tamwe,တာမွေ,3,False,True,False,58441.5584415584
+450,1,1,960,0,MMR013015,Tamwe,တာမွေ,6,False,True,False,46875
+450,1,1,700,1,MMR013039,Sanchaung,စမ်းချောင်း,3,False,True,False,64285.7142857143
+450,1,1,825,1,MMR013015,Tamwe,တာမွေ,1,False,True,False,54545.4545454545
+450,1,1,743,0,MMR013015,Tamwe,တာမွေ,4,False,True,False,60565.2759084791
+450,0,1,625,0,MMR013041,Kamaryut,ကမာရွတ်,4,False,False,False,72000
+450,0,1,688,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,3,False,False,False,65406.976744186
+450,2,1,990,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,True,True,45454.5454545455
+450,0,1,800,0,MMR013040,Hlaing,လှိုင်,0,False,False,False,56250
+450,0,1,625,0,MMR013040,Hlaing,လှိုင်,1,False,False,False,72000
+450,1,0,625,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,,False,False,False,72000
+450,0,0,625,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,3,False,True,False,72000
+450,0,1,675,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,False,False,False,66666.6666666667
+450,0,1,588,0,MMR013040,Hlaing,လှိုင်,0,False,False,False,76530.612244898
+450,0,1,1250,0,MMR013040,Hlaing,လှိုင်,1,False,False,False,36000
+450,0,1,1250,0,MMR013040,Hlaing,လှိုင်,1,False,False,False,36000
+450,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,True,46106.5573770492
+450,0,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,False,46296.2962962963
+450,1,1,825,1,MMR013015,Tamwe,တာမွေ,1,False,True,False,54545.4545454545
+450,0,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,False,46296.2962962963
+455,1,1,728,2,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,False,True,True,62500
+455,1,1,728,2,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,True,True,62500
+460,1,2,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,True,True,47131.1475409836
+460,0,1,900,0,MMR013013,Thaketa,သာကေတ,4,,,,51111.1111111111
+460,0,1,750,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,False,False,61333.3333333333
+460,0,1,750,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,False,True,61333.3333333333
+460,1,1,600,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,3,False,True,False,76666.6666666667
+460,1,2,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,False,True,False,47325.1028806584
+460,1,2,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,False,True,False,47325.1028806584
+460,2,1,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,True,False,44834.3079922027
+460,2,1,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,True,False,44834.3079922027
+460,1,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,1,False,True,True,73600
+460,0,1,552,0,MMR013015,Tamwe,တာမွေ,4,False,False,True,83333.3333333333
+460,0,1,600,0,MMR013039,Sanchaung,စမ်းချောင်း,2,False,False,False,76666.6666666667
+460,1,2,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,True,True,47131.1475409836
+460,0,1,800,0,MMR013044,Bahan,ဗဟန်း,1,False,False,False,57500
+460,0,1,750,0,MMR013039,Sanchaung,စမ်းချောင်း,2,False,False,False,61333.3333333333
+460,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,,,,47325.1028806584
+460,2,1,990,0,MMR013013,Thaketa,သာကေတ,2,,,,46464.6464646465
+460,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,True,47131.1475409836
+460,0,2,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,False,47131.1475409836
+460,1,2,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,True,47131.1475409836
+460,0,1,625,0,MMR013041,Kamaryut,ကမာရွတ်,6,False,False,True,73600
+460,1,1,825,1,MMR013015,Tamwe,တာမွေ,1,False,False,False,55757.5757575758
+460,0,1,750,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,False,False,61333.3333333333
+465,0,0,575,0,MMR013037,Ahlone,အလုံ,0,False,False,False,80869.5652173913
+465,0,0,625,0,MMR013014,Dawbon,ဒေါပုံ,1,False,False,False,74400
+467,0,1,600,0,MMR013037,Ahlone,အလုံ,2,,,,77833.3333333333
+470,0,1,900,0,MMR013013,Thaketa,သာကေတ,3,,,,52222.2222222222
+470,2,1,1026,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,5,False,True,True,45808.9668615984
+470,2,1,1040,0,MMR013039,Sanchaung,စမ်းချောင်း,5,True,False,False,45192.3076923077
+470,1,1,625,0,MMR013035,Lanmadaw,လမ်းမတော်,6,True,False,False,75200
+470,0,1,650,0,MMR013039,Sanchaung,စမ်းချောင်း,1,,,,72307.6923076923
+470,1,1,500,1,MMR013033,Kyauktada,ကျောက်တံတား,5,False,True,True,94000
+470,1,1,900,0,MMR013013,Thaketa,သာကေတ,1,False,False,False,52222.2222222222
+470,1,1,750,0,MMR013015,Tamwe,တာမွေ,1,False,True,False,62666.6666666667
+470,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,True,False,False,48353.9094650206
+470,1,1,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,,,,45808.9668615984
+470,1,1,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,,,,45808.9668615984
+470,0,1,650,0,MMR013041,Kamaryut,ကမာရွတ်,5,False,False,False,72307.6923076923
+470,0,1,972,0,MMR013013,Thaketa,သာကေတ,1,,,,48353.9094650206
+470,1,1,688,0,MMR013041,Kamaryut,ကမာရွတ်,3,False,True,False,68313.9534883721
+470,2,1,1045,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,,,,44976.0765550239
+470,2,1,1026,1,MMR013013,Thaketa,သာကေတ,2,False,True,False,45808.9668615984
+470,0,0,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,,,,48353.9094650206
+470,2,1,700,1,MMR013016,Pazundaung,ပုဇွန်တောင်,6,False,False,False,67142.8571428571
+470,0,1,625,0,MMR013040,Hlaing,လှိုင်,0,False,False,False,75200
+470,0,1,625,0,MMR013040,Hlaing,လှိုင်,0,False,False,False,75200
+475,1,1,972,0,MMR013001,Insein,အင်းစိန်,2,True,False,False,48868.3127572017
+475,0,1,972,0,MMR013001,Insein,အင်းစိန်,2,True,False,False,48868.3127572017
+475,0,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,2,False,False,False,76000
+475,0,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,2,False,False,False,76000
+475,0,1,900,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,True,52777.7777777778
+475,1,1,825,0,MMR013015,Tamwe,တာမွေ,0,False,False,False,57575.7575757576
+475,0,1,625,0,MMR013041,Kamaryut,ကမာရွတ်,,False,False,True,76000
+480,0,1,900,0,MMR013013,Thaketa,သာကေတ,5,,,,53333.3333333333
+480,0,1,900,0,MMR013013,Thaketa,သာကေတ,1,,,,53333.3333333333
+480,0,1,800,0,MMR013010,Yankin,ရန်ကင်း,5,False,True,True,60000
+480,1,1,650,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,5,False,True,False,73846.1538461538
+480,2,1,800,1,MMR013044,Bahan,ဗဟန်း,5,False,True,False,60000
+480,0,1,1026,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,0,False,False,False,46783.6257309942
+480,3,1,972,0,MMR013013,Thaketa,သာကေတ,3,,,,49382.7160493827
+480,1,1,675,1,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,4,False,True,False,71111.1111111111
+480,0,1,1250,0,MMR013039,Sanchaung,စမ်းချောင်း,6,False,False,False,38400
+480,2,1,880,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,True,True,True,54545.4545454545
+480,2,1,999,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,True,48048.0480480481
+480,0,0,650,0,MMR013014,Dawbon,ဒေါပုံ,0,,,,73846.1538461538
+480,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,1,False,False,False,76800
+480,2,1,900,1,MMR013015,Tamwe,တာမွေ,5,False,True,False,53333.3333333333
+480,0,1,918,0,MMR013019,Dagon Myothit (North),ဒဂုံမြို့သစ်မြောက်ပိုင်း,6,True,False,False,52287.5816993464
+480,0,1,988,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,False,False,48582.995951417
+480,0,1,660,0,MMR013013,Thaketa,သာကေတ,0,False,False,True,72727.2727272727
+480,2,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,False,49382.7160493827
+480,0,1,850,0,MMR013015,Tamwe,တာမွေ,2,False,False,False,56470.5882352941
+480,0,1,936,0,MMR013019,Dagon Myothit (North),ဒဂုံမြို့သစ်မြောက်ပိုင်း,1,False,True,True,51282.0512820513
+480,2,2,960,0,MMR013015,Tamwe,တာမွေ,2,True,False,False,50000
+480,0,1,1072,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,44776.1194029851
+480,0,1,988,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,False,False,48582.995951417
+480,0,1,1265,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,True,True,37944.6640316206
+480,0,1,900,0,MMR013001,Insein,အင်းစိန်,3,False,False,False,53333.3333333333
+480,0,1,1080,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,,,,44444.4444444444
+480,0,1,825,0,MMR013015,Tamwe,တာမွေ,4,False,False,False,58181.8181818182
+480,0,2,700,0,MMR013044,Bahan,ဗဟန်း,5,True,False,False,68571.4285714286
+480,1,1,750,1,MMR013015,Tamwe,တာမွေ,1,False,True,False,64000
+480,0,1,1064,0,MMR013013,Thaketa,သာကေတ,1,False,False,False,45112.7819548872
+480,0,1,650,0,MMR013042,Mayangone,မရမ်းကုန်း,0,False,False,False,73846.1538461538
+480,1,2,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,True,46783.6257309942
+485,2,2,918,0,MMR013013,Thaketa,သာကေတ,1,,,,52832.2440087146
+485,2,1,920,0,MMR013013,Thaketa,သာကေတ,1,False,False,False,52717.3913043478
+490,2,1,986,0,MMR013042,Mayangone,မရမ်းကုန်း,1,False,True,True,49695.7403651116
+490,1,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,True,50411.5226337449
+490,0,1,1026,0,MMR013019,Dagon Myothit (North),ဒဂုံမြို့သစ်မြောက်ပိုင်း,1,False,False,False,47758.2846003899
+490,0,0,918,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,False,False,False,53376.9063180828
+490,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,,,,50411.5226337449
+490,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,,,,50411.5226337449
+490,2,1,825,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,4,False,True,True,59393.9393939394
+490,2,2,1500,1,MMR013015,Tamwe,တာမွေ,8,False,True,True,32666.6666666667
+490,1,2,750,2,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,5,,,,65333.3333333333
+490,3,1,900,2,MMR013015,Tamwe,တာမွေ,4,False,True,False,54444.4444444444
+490,0,1,825,0,MMR013015,Tamwe,တာမွေ,1,False,False,False,59393.9393939394
+490,1,1,784,2,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,False,True,False,62500
+490,1,1,756,2,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,False,True,True,64814.8148148148
+490,1,1,1018,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,0,False,False,False,48133.5952848723
+495,0,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,3,False,True,False,79200
+495,0,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,False,False,True,50925.9259259259
+499,1,1,910,1,MMR013016,Pazundaung,ပုဇွန်တောင်,7,False,True,False,54835.1648351648
+500,2,1,1026,3,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,1,True,True,True,48732.9434697856
+500,2,1,625,1,MMR013040,Hlaing,လှိုင်,2,True,False,False,80000
+500,2,1,650,0,MMR013039,Sanchaung,စမ်းချောင်း,3,False,True,True,76923.0769230769
+500,0,1,972,0,MMR013012,North Okkalapa,မြောက်ဥက္ကလာပ,4,,,,51440.329218107
+500,0,0,675,0,MMR013013,Thaketa,သာကေတ,,,,,74074.0740740741
+500,2,1,1026,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,4,False,True,True,48732.9434697856
+500,0,1,990,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,0,False,False,False,50505.0505050505
+500,0,1,625,0,MMR013037,Ahlone,အလုံ,4,False,False,False,80000
+500,0,1,625,0,MMR013037,Ahlone,အလုံ,4,False,False,False,80000
+500,0,1,625,0,MMR013014,Dawbon,ဒေါပုံ,1,,,,80000
+500,2,1,910,0,MMR013035,Lanmadaw,လမ်းမတော်,6,True,False,False,54945.0549450549
+500,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,False,51229.5081967213
+500,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,True,51229.5081967213
+500,0,1,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,True,48732.9434697856
+500,0,1,1020,0,MMR013042,Mayangone,မရမ်းကုန်း,4,,,,49019.6078431373
+500,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,False,51440.329218107
+500,1,1,625,1,MMR013041,Kamaryut,ကမာရွတ်,3,False,True,True,80000
+500,2,1,1080,3,MMR013039,Sanchaung,စမ်းချောင်း,7,False,False,True,46296.2962962963
+500,2,1,825,1,MMR013037,Ahlone,အလုံ,5,False,True,False,60606.0606060606
+500,0,1,1250,0,MMR013037,Ahlone,အလုံ,6,False,False,False,40000
+500,0,1,1250,0,MMR013037,Ahlone,အလုံ,6,False,False,False,40000
+500,0,1,650,0,MMR013039,Sanchaung,စမ်းချောင်း,1,False,False,False,76923.0769230769
+500,0,1,625,0,MMR013037,Ahlone,အလုံ,3,False,False,False,80000
+500,2,1,625,2,MMR013037,Ahlone,အလုံ,,False,True,True,80000
+500,3,2,1000,0,MMR013042,Mayangone,မရမ်းကုန်း,4,True,True,True,50000
+500,0,0,1120,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,6,True,False,False,44642.8571428571
+500,0,1,816,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,True,False,True,61274.5098039216
+500,0,1,969,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,3,False,False,True,51599.5872033024
+500,0,1,918,0,MMR013018,Dagon Myothit (South),ဒဂုံမြို့သစ်တောင်ပိုင်း,1,True,False,True,54466.2309368192
+500,0,1,972,0,MMR013001,Insein,အင်းစိန်,2,True,False,False,51440.329218107
+500,0,1,960,2,MMR013039,Sanchaung,စမ်းချောင်း,3,False,True,False,52083.3333333333
+500,1,1,625,1,MMR013041,Kamaryut,ကမာရွတ်,1,False,False,False,80000
+500,2,1,999,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,False,False,50050.0500500501
+500,2,1,900,0,MMR013015,Tamwe,တာမွေ,6,False,False,True,55555.5555555556
+500,0,1,625,1,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,False,False,True,80000
+500,2,1,900,1,MMR013015,Tamwe,တာမွေ,3,False,True,False,55555.5555555556
+500,2,1,750,0,MMR013015,Tamwe,တာမွေ,,False,True,False,66666.6666666667
+500,2,1,900,1,MMR013015,Tamwe,တာမွေ,3,,,,55555.5555555556
+500,2,1,825,2,MMR013015,Tamwe,တာမွေ,4,False,True,True,60606.0606060606
+500,2,1,625,2,MMR013040,Hlaing,လှိုင်,2,False,True,True,80000
+500,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,True,False,False,51440.329218107
+500,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,False,False,False,51440.329218107
+500,1,1,750,0,MMR013015,Tamwe,တာမွေ,1,False,True,False,66666.6666666667
+500,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,,,,51440.329218107
+500,1,1,974,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,True,False,51334.7022587269
+500,1,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,5,False,True,False,51440.329218107
+500,0,1,988,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,False,False,50607.2874493927
+500,0,1,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,False,False,48732.9434697856
+500,1,1,900,0,MMR013039,Sanchaung,စမ်းချောင်း,5,,,,55555.5555555556
+500,2,1,999,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,,,,50050.0500500501
+500,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,,,,51440.329218107
+500,2,1,750,0,MMR013042,Mayangone,မရမ်းကုန်း,3,False,True,True,66666.6666666667
+500,2,1,700,0,MMR013041,Kamaryut,ကမာရွတ်,4,,,,71428.5714285714
+500,1,1,950,0,MMR013037,Ahlone,အလုံ,7,,,,52631.5789473684
+500,2,1,625,2,MMR013016,Pazundaung,ပုဇွန်တောင်,4,False,False,False,80000
+500,0,1,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,1,False,False,False,48732.9434697856
+500,2,1,650,0,MMR013019,Dagon Myothit (North),ဒဂုံမြို့သစ်မြောက်ပိုင်း,5,,,,76923.0769230769
+500,0,1,650,0,MMR013039,Sanchaung,စမ်းချောင်း,1,,,,76923.0769230769
+500,0,1,715,0,MMR013015,Tamwe,တာမွေ,1,,,,69930.0699300699
+500,0,1,1250,0,MMR013013,Thaketa,သာကေတ,1,False,False,True,40000
+500,1,1,1500,4,MMR013016,Pazundaung,ပုဇွန်တောင်,8,False,True,True,33333.3333333333
+500,1,1,800,0,MMR013044,Bahan,ဗဟန်း,3,,,,62500
+500,2,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,False,True,True,51440.329218107
+500,2,1,900,1,MMR013015,Tamwe,တာမွေ,3,False,False,True,55555.5555555556
+500,2,1,972,1,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,2,False,True,True,51440.329218107
+500,1,1,750,0,MMR013017,Botahtaung,ဗိုလ်တထောင်,6,False,False,False,66666.6666666667
+500,0,1,750,0,MMR013017,Botahtaung,ဗိုလ်တထောင်,5,False,False,False,66666.6666666667
+500,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,,,,,51440.329218107
+500,1,1,625,0,MMR013040,Hlaing,လှိုင်,1,False,False,False,80000
+500,0,1,972,0,MMR013013,Thaketa,သာကေတ,1,,,,51440.329218107
+500,1,1,1026,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,3,False,False,False,48732.9434697856
+500,0,0,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,0,,,,80000
+500,0,0,1081,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,,,,,46253.4690101758
+500,0,0,750,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,,,,,66666.6666666667
+500,0,0,1020,0,MMR013016,Pazundaung,ပုဇွန်တောင်,3,,,,49019.6078431373
+500,3,2,1050,0,MMR013013,Thaketa,သာကေတ,4,False,False,True,47619.0476190476
+500,0,1,976,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,0,False,False,False,51229.5081967213
+500,1,1,750,0,MMR013017,Botahtaung,ဗိုလ်တထောင်,6,False,False,False,66666.6666666667
+500,2,1,1045,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,4,,,,47846.8899521531
+500,0,1,765,0,MMR013040,Hlaing,လှိုင်,0,False,False,False,65359.477124183
+500,0,1,650,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,3,False,False,False,76923.0769230769
+500,0,1,972,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,6,True,False,False,51440.329218107
+500,0,0,650,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,3,False,False,False,76923.0769230769
+500,0,0,750,0,MMR013022,Mingalartaungnyunt,မင်္ဂလာတောင်ညွန့်,3,,,,66666.6666666667
+500,2,1,900,1,MMR013015,Tamwe,တာမွေ,3,False,False,True,55555.5555555556
+500,0,2,900,0,MMR013015,Tamwe,တာမွေ,2,,,,55555.5555555556
+500,0,1,729,0,MMR013011,South Okkalapa,တောင်ဥက္ကလာပ,0,False,False,True,68587.1056241427
+500,2,1,687,2,MMR013039,Sanchaung,စမ်းချောင်း,4,,,,72780.2037845706
+500,0,1,800,0,MMR013044,Bahan,ဗဟန်း,4,True,False,False,62500
+500,2,1,750,0,MMR013015,Tamwe,တာမွေ,5,False,False,True,66666.6666666667
+500,2,1,688,1,MMR013015,Tamwe,တာမွေ,1,False,True,False,72674.4186046512
+500,1,1,1200,1,MMR013015,Tamwe,တာမွေ,2,False,False,False,41666.6666666667
+500,0,1,650,0,MMR013042,Mayangone,မရမ်းကုန်း,0,False,False,False,76923.0769230769
+500,0,1,1470,0,MMR013001,Insein,အင်းစိန်,5,,,,34013.6054421769
+500,1,1,625,0,MMR013039,Sanchaung,စမ်းချောင်း,1,False,False,True,80000
+500,0,0,625,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,1,False,False,False,80000
+500,0,1,625,0,MMR013040,Hlaing,လှိုင်,0,False,False,False,80000
+500,1,1,675,0,MMR013015,Tamwe,တာမွေ,4,False,False,False,74074.0740740741
+500,0,1,625,0,MMR013015,Tamwe,တာမွေ,5,False,False,True,80000
+500,0,1,625,0,MMR013038,Kyeemyindaing,ကြည့်မြင်တိုင်,1,False,False,True,80000
+500,0,1,1200,0,MMR013039,Sanchaung,စမ်းချောင်း,0,True,False,False,41666.6666666667
+500,0,1,972,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,2,False,False,False,51440.329218107
+500,1,1,625,0,MMR013009,Thingangyun,သင်္ဃန်းကျွန်း,1,False,False,True,80000
+500,0,1,750,0,MMR013015,Tamwe,တာမွေ,,False,False,True,66666.6666666667
