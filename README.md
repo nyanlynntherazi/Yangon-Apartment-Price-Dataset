@@ -1,5 +1,5 @@
 # Yangon-Apartment-Price-Dataset
-Yangon apartment price dataset range between 20 Million Kyat(သိန်း ၂၀၀) and 50 Million Kyat (သိန်း ၅၀၀). This dataset aim for people learning data science, mechine learning, data analysis and gis mapping. As this is a raw dataset, cleaning, balancing and interpolation might need before using it.
+Yangon apartment price dataset range between 20 Million Kyat(သိန်း ၂၀၀) and 50 Million Kyat (သိန်း ၅၀၀). This dataset aim for people learning data science, mechine learning, data analysis and gis mapping. As this is a raw dataset, cleaning, balancing and interpolation might be needed before using it. Data is far from perfect, but it's good enough to build dummy mechine learning model or doing exploratory data analysis or mapping apartment price by township. 
 
 Data is manually collected and compiled from real estate facebook groups, Shwe Property and imyanmar house. I DO NOT OWN the data and I DO NOT GUARANTEE the integrity of the data.
 
