@@ -18,7 +18,7 @@ Yangon apartment price dataset range between 20 Million Kyat(သိန်း ၂
 #### price_sqft (စတုရန်းပေ ပါတ်လည်စျေးနှုန်း)
 
 ## Disclaimer
-I'm not affiliated with any real estate agents. Data is manually collected from real estate facebook groups. I DO NOT OWN the data and I DO NOT GUARANTEE the integrity of the data.
+I'm not affiliated with any real estate agents. Data is MANUALLY collected from real estate facebook groups. I DO NOT OWN the data and I DO NOT GUARANTEE the integrity of the data.
 
 ## Credit
 Shwe Property
